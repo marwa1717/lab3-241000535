@@ -1,0 +1,3 @@
+I love Drawing
+I love going to the gym
+I also enjoy gaming
