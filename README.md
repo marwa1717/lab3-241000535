@@ -1,1 +1,3 @@
 # lab3-241000535
+
+This repository is for my Lab 3 Git and Github task. It also contains my name, ID, and hobbies.
